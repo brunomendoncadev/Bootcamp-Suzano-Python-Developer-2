@@ -8,5 +8,8 @@
 ## 💻 Resumos Das Aulas
 
 * Git e GitHub - versionamento do Código
+* Criando e Clonando Repositórios
+* Salvando Alterações No Repositório Local
+* Desfazendo Alterações no Repositório Local
 
 ## 🔍 Refêrencias
