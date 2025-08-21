@@ -11,5 +11,6 @@
 * Criando e Clonando Repositórios
 * Salvando Alterações No Repositório Local
 * Desfazendo Alterações no Repositório Local
+* Enviando e Baixando Alterações no repositorio Remoto.
 
 ## 🔍 Refêrencias
