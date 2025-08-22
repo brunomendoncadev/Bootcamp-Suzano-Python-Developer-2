@@ -12,7 +12,7 @@
 * Salvando Alterações No Repositório Local
 * Desfazendo Alterações no Repositório Local
 * Enviando e Baixando Alterações no repositorio Remoto.
-* Trabalhando com Branches.
-* teste
+* Trabalhando com Branches - Criando,Mesclando, Deletando e Tratando Conflitos.
+* Trabalhando com Branches - Comandos Úteis no Dia a Dia.
 
 ## 🔍 Refêrencias
