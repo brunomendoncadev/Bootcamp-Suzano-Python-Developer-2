@@ -14,6 +14,6 @@
 * Enviando e Baixando Alterações no repositorio Remoto.
 * Trabalhando com Branches - Criando,Mesclando, Deletando e Tratando Conflitos.
 * Trabalhando com Branches - Comandos Úteis no Dia a Dia.
-testa
+testado
 
 ## 🔍 Refêrencias
