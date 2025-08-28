@@ -11,14 +11,16 @@ Objetivo
 Introduzir ao versionamento de código com Git e GitHub.
 
 ## 🛠 Ferramentas
-Git GitHub
+* Git GitHub
+* Vs Code
+* Python
 
 ## 🛣 Percurso
-Nº	Etapas	Materiais de Apoio
-01	Visão Geral do Curso e Ferramentas	Material de Apoio
-02	Instalação, Configuração e Autenticação	Material de Apoio
-03	Primeiros Passos com Git e GitHub	Material de Apoio
-04	Dicas e Materiais de Apoio	Material de Apoio
+Nº	Etapas	Materiais de Apoio <br>
+01	Visão Geral do Curso e Ferramentas	Material de Apoio <br>
+02	Instalação, Configuração e Autenticação	Material de Apoio <br>
+03	Primeiros Passos com Git e GitHub	Material de Apoio <br>
+04	Dicas e Materiais de Apoio	Material de Apoio <br>
 
 ## 💻 Resumos Das Aulas
 
@@ -29,6 +31,13 @@ Nº	Etapas	Materiais de Apoio
 * Enviando e Baixando Alterações no repositorio Remoto.
 * Trabalhando com Branches - Criando,Mesclando, Deletando e Tratando Conflitos.
 * Trabalhando com Branches - Comandos Úteis no Dia a Dia.
+* Introdução ao Python com a Suzano.
+* Live de Lançamento: Suzano - Python Developer.
+* Introdução ao Ambiente Python e Projetos Colaborativos.
+* Contribuindo em um Projeto Open Source no Github.
+* Conhecendo a Linguagem de Programação Python.
+* Ambiente de Desenvolvimento e Primeiros Passos com Python.
+* Tipos de Operadores. (Aritmeticos/Comparação/Atribuição/Lógicos/Identidade/Associação)
 
 
 ## 🔍 Refêrencias
